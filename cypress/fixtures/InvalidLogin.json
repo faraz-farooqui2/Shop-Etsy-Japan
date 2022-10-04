@@ -1,0 +1,12 @@
+[
+    {
+        "emailAddress": "faraz.farooqui2",
+        "password": "P@ss1234!",
+        "msg": "Username is invalid"
+    },
+    {
+        "emailAddress": "faraz.farooqui2+98@gmail.com",
+        "password": "P@ss123@",
+        "msg": "Password was incorrect"
+    }
+]
